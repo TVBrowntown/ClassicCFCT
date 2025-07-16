@@ -1,5 +1,11 @@
 [![](http://img.youtube.com/vi/gNMEFNtfaEQ/0.jpg)](http://www.youtube.com/watch?v=gNMEFNtfaEQ "Youtube link")
 
+# REQUIREMENTS
+
+You will need your Wow.exe patched with AwesomeWotlk for this to work.
+
+https://github.com/someweirdhuman/awesome_wotlk
+
 # ClassicCFCT
 Highly customizable "Floating Combat Text" addon with text anti-overlap behavior similiar to that of WoW Classic.
  
